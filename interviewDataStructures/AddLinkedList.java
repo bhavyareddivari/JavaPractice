@@ -1,3 +1,5 @@
+//add and remove elements from linkedlist
+
 package interviewDataStructures;
 import java.util.LinkedList;
 
